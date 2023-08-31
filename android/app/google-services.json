@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "71940740908",
+    "project_id": "grand-kingdom-371014",
+    "storage_bucket": "grand-kingdom-371014.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71940740908:android:6bad73b868d608af20fe89",
+        "android_client_info": {
+          "package_name": "com.goldybee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71940740908-rsblkbm6q7f2kolrodtfud6d8cn88kun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhIcIpoKbGXZ_cTEjWxb8P8abTD9EuOI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71940740908-rsblkbm6q7f2kolrodtfud6d8cn88kun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
